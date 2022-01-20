@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/QuanSean/EST-ROUGE-TEST/static/css/main.e6c13ad2.css",
+    "main.js": "/QuanSean/EST-ROUGE-TEST/static/js/main.bc4dad0a.js",
+    "static/js/997.92b83406.chunk.js": "/QuanSean/EST-ROUGE-TEST/static/js/997.92b83406.chunk.js",
+    "static/js/388.3696c1f0.chunk.js": "/QuanSean/EST-ROUGE-TEST/static/js/388.3696c1f0.chunk.js",
+    "static/js/131.2cda3ce8.chunk.js": "/QuanSean/EST-ROUGE-TEST/static/js/131.2cda3ce8.chunk.js",
+    "static/js/317.03747ae7.chunk.js": "/QuanSean/EST-ROUGE-TEST/static/js/317.03747ae7.chunk.js",
+    "static/js/518.2e80df1f.chunk.js": "/QuanSean/EST-ROUGE-TEST/static/js/518.2e80df1f.chunk.js",
+    "index.html": "/QuanSean/EST-ROUGE-TEST/index.html",
+    "static/media/getFetch.cjs": "/QuanSean/EST-ROUGE-TEST/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.e6c13ad2.css.map": "/QuanSean/EST-ROUGE-TEST/static/css/main.e6c13ad2.css.map",
+    "main.bc4dad0a.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/main.bc4dad0a.js.map",
+    "997.92b83406.chunk.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/997.92b83406.chunk.js.map",
+    "388.3696c1f0.chunk.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/388.3696c1f0.chunk.js.map",
+    "131.2cda3ce8.chunk.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/131.2cda3ce8.chunk.js.map",
+    "317.03747ae7.chunk.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/317.03747ae7.chunk.js.map",
+    "518.2e80df1f.chunk.js.map": "/QuanSean/EST-ROUGE-TEST/static/js/518.2e80df1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc4dad0a.js"
+  ]
+}
